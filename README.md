@@ -1,2 +1,2 @@
 # demo-git
-une démo de Git - un essai de repository
+une démo de Git - un essai de repository qui se passe bien
